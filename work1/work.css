@@ -1,0 +1,16 @@
+html{
+    background-color: bisque;
+}
+
+img{
+        width: 500px;
+        height: auto;
+        display: block;
+        margin: auto;
+        border-radius: 20%;   
+}
+
+h1{
+    text-align: center;
+}
+
