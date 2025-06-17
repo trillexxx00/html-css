@@ -1,9 +1,18 @@
 html{
-    background-color: bisque;
+    background-image: url(img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
+
+
 img{
-        width: 500px;
+        width: 350px;
         height: auto;
         display: block;
         margin: auto;
@@ -11,6 +20,49 @@ img{
 }
 
 h1{
+    color: #FFFFFF;
     text-align: center;
 }
+
+h2{
+    text-align: center;
+    color: #E6E6FA ;
+}
+
+h3{
+   color: #E6E6FA; 
+}
+
+p{
+    color: #F8F8FF;
+    text-align: justify;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 20px;
+}
+
+a{
+    color: #ffffff;
+}
+
+table{
+    color: #F8F8FF;
+      margin: 0 auto;
+      border-collapse: collapse;
+      margin-top: 20px;
+      text-align: center;
+}
+
+h3{
+    margin-left: 5%;
+}
+ li{
+    margin-left: 5%;
+    color: #F8F8FF;
+ }
+
+ video{
+    border-radius: 20%;
+    box-sizing: border-box;
+ }
 
